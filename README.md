@@ -1,2 +1,2 @@
-# gitezo
-Github testing zone
+# GiTeZo
+Github Testing Zone
